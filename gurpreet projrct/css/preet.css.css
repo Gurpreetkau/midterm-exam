@@ -1,0 +1,26 @@
+ .mynavbar{
+    background-color: gray!important;
+    text-align: right;
+    
+}
+
+.header {
+  padding: 15px;
+  text-align: center;
+  background: chocolate;
+  color: black;
+  font-size: 30px;
+  font-size: 30px;
+}
+.footer {
+    padding: 15px;
+  text-align: center;
+  background: chocolate;
+  color:black;
+  font-size: 15px;
+    text-align: center;
+    color:black;
+}
+p {
+    text-align: center;
+}
